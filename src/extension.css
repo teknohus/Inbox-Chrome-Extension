@@ -1,0 +1,38 @@
+body {
+  padding-top: 5px;
+  width: 800px;
+  font-family: sans-serif;
+}
+
+table {
+  font-size: 13px;
+  /* border-collapse: initial; */
+}
+
+.table td {
+  padding: 0;
+  vertical-align: middle;
+  border-top: 2px solid #e9ecef;
+  /* width: 10x !important; */
+}
+
+.table thead th {
+  padding: 0.1em;
+  background-color: rgb(212,255,204,0.39);
+}
+
+.stats {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+/* Bootstrap overrides */
+
+.btn, .btn-info {
+  /* color: #fff !important; */
+  cursor: pointer;
+}
+
+.table td.justift {
+
+}
