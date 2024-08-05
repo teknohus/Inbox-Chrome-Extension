@@ -14,18 +14,9 @@ You can see the following information about your messages:
    - Inmail
    - Inmail_Reply  
 
-# How to use the unpacked extension(source code)?  
-1. Go chrome://extensions/
-2. Click and open 'Developer Mode' at the top right corner, and a bin will arise.
-3. Click 'Load Unpacked' and choose the folder.
-4. Check it out now.  
-
-# How to add it into Chrome extension?  
-[Click here and check it out.](https://chrome.google.com/webstore/detail/linkedin-inbox/eaceggfpmjnmgodgpffplfmadjjpfabp/related?hl=en-US&gl=US)  
-
-# Demo
-![](https://github.com/yanym/Linkedin-Inbox-Invitation-Chrome-Extension/blob/master/_locales/en/Demo1.png)  
+# Screenshots
+![](https://github.com/teknohus/Inbox-Chrome-Extension/blob/main/_locales/en/Demo1.png)  
 
 
-![](https://github.com/yanym/Linkedin-Inbox-Invitation-Chrome-Extension/blob/master/_locales/en/Demo2.png)  
+![](https://github.com/teknohus/Inbox-Chrome-Extension/blob/main/_locales/en/Demo2.png)  
 
