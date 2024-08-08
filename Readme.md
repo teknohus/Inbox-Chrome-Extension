@@ -1,5 +1,4 @@
 # Help you to view recent 20 LinkedIn Message.  
-**Check the message by extension cannot change the status of it. Eg, ***unread*** status is still unread.**  
 
 You can see the following information about your messages:
  - Each page shows 20 messages, and you can choose to Go Next, Go Prev, or even Go Inbox
